@@ -1,0 +1,20 @@
+<h1>Marketplace .NET - ANGULAR</h1>
+
+<mat-divider></mat-divider>
+
+<div class="grid bm-8 pt-3">
+
+  <div *ngIf="!hasLoaded; else products" class="text-center">
+   Stock vacío
+ </div>
+
+ <!-- Template -->
+ <ng-template #products>
+   <div *ngFor="let producto of productos"
+     class="col-12 sm:col-6 md:col-3 xl:col-3">
+     <product-card-product [producto]="producto" ></product-card-product>
+   </div>
+ </ng-template>
+
+
+</div>
