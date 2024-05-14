@@ -46,7 +46,8 @@ CREATE TABLE Producto(
 	PrecioUnitario DECIMAL(12,2),
 	CategoriaIdCategoria INT FOREIGN KEY REFERENCES Categoria(IdCategoria),
 	Estado INT,
-	UrlImagen VARCHAR(550)
+	UrlImagen VARCHAR(550),
+	Descripcion VARCHAR(350)
 );
 
 SELECT * FROM Producto;
