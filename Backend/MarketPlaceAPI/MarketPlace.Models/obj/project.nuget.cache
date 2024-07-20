@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fg0xDJsgFW2WWg/l6t4TeH7UQIATWLo1ieYOT1nf4KdyL7VenXStV/nTxoM3yK2dTklgKinziKLjXhhQrDQmrQ==",
+  "dgSpecHash": "zUbqryPOVakIYVIJgqgQCUauDoIZy8zRp1pX7RSWVyA8u7ScfS9WrN/die4UaZyOwt9Vzhooov12tytYdAM8xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jona\\Desktop\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\MarketPlace.Models.csproj",
+  "projectFilePath": "E:\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\MarketPlace.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

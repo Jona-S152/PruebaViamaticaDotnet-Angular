@@ -14,6 +14,7 @@ export class CompraService {
 
   // Lista carrito
   private myList : ProductoCarrito[] = [];
+  private cartList : string = '';
 
   // Carrito observable
   private myCart = new BehaviorSubject<ProductoCarrito[]>([]);
@@ -55,6 +56,10 @@ export class CompraService {
         this.myCart.next(this.myList);
       }
     }
+
+    this.cartList = JSON.stringify(this.myList);
+    localStorage.setItem('carrito', this.cartList);
+
   }
 
   deleteProduct(id : number){
@@ -62,6 +67,11 @@ export class CompraService {
       return prod.idProducto != id;
     });
     this.myCart.next(this.myList);
+
+    localStorage.removeItem('carrito');
+
+    this.cartList = JSON.stringify(this.myList);
+    localStorage.setItem('carrito', this.cartList);
   }
 
   findProductById(id : number){

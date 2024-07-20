@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jona\\Desktop\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\MarketPlace.Models.csproj": {}
+    "E:\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\MarketPlace.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jona\\Desktop\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\MarketPlace.Models.csproj": {
+    "E:\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\MarketPlace.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jona\\Desktop\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\MarketPlace.Models.csproj",
+        "projectUniqueName": "E:\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\MarketPlace.Models.csproj",
         "projectName": "MarketPlace.Models",
-        "projectPath": "C:\\Users\\Jona\\Desktop\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\MarketPlace.Models.csproj",
+        "projectPath": "E:\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\MarketPlace.Models.csproj",
         "packagesPath": "C:\\Users\\Jona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jona\\Desktop\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\obj\\",
+        "outputPath": "E:\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jona\\AppData\\Roaming\\NuGet\\NuGet.Config",

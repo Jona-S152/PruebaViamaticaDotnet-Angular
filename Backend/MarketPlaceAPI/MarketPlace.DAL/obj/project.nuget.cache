@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XEJUgTIRFuNBmiP4Z6SC8ABnDTBHh9yuVdVxH9FsgVxXlxrqbaJ6sS9FHBqr/R9J1SSI8PNqd8853BxLpNrFpg==",
+  "dgSpecHash": "W8AWGAtzSYkLVYuAWYhaBaA9QZumbBjSZWlW+yET6mr9jNOIyIj1LABI0cKSVlsD9cbpY7JdGzjkDpx9UzQVYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jona\\Desktop\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.DAL\\MarketPlace.DAL.csproj",
+  "projectFilePath": "E:\\PruebaViamaticaDotnet-Angular\\Backend\\MarketPlaceAPI\\MarketPlace.DAL\\MarketPlace.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jona\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Jona\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
